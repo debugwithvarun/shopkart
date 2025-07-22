@@ -97,7 +97,7 @@ const Footer = ({ bgcolor, orange, darkorange,dark }) => {
             <span>Moradabad , Uttar Pradesh</span>
           </div>
           <div className="flex gap-5 items-center text-lg">
-            <MdPhoneIphone className="text-2xl" /> <span>+91 976026256</span>
+            <MdPhoneIphone className="text-2xl" /> <span>+91 9760246256</span>
           </div>
         </div>
       </motion.div>
